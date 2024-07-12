@@ -16,7 +16,7 @@ The main challenge of this project was dealing with many data entry issues. Ther
 
 I gathered population data from the US Census website. This helped the business understand where most of their customers come from and identify new areas for marketing to increase their customer base and profits.
 
-I used Python with Matplotlib and Seaborn libraries for data visualization and created a dashboard with(https://public.tableau.com/views/PlumbingProjectUpdated/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+I used Python with Matplotlib and Seaborn libraries for data visualization and created a dashboard with [Tableau](https://public.tableau.com/views/PlumbingProjectUpdated/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Dependencies
 This project is created with:
